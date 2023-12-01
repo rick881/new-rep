@@ -1,1 +1,1 @@
-hi
+removing git global user.name
